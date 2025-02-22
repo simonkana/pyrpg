@@ -1,0 +1,1 @@
+# Sprites postav a objektů
