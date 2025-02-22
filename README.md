@@ -1,3 +1,3 @@
 # PyRPG
 
-A simple 2d rpg game written in Python & PyGame
+A simple 2D RPG game written in Python & Pygame
